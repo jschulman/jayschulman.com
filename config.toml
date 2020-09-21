@@ -1,4 +1,4 @@
-baseurl = "https://focused-hawking-dc709d.netlify.app/"
+baseurl = "https://JaySchulman.com/"
 title = "Jay Schulman"
 
 DefaultContentLanguage = "en"
@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     keywords = "infosec,bitcoin,blockchain,security,privacy"
     info = "DIGITAL ASSETS - BLOCKCHAIN - SECURITY"
     avatarurl = "images/profile.png"
-    footercontent = "Member FDIC and an Equal Housing Lender."
+    footercontent = "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.”
     # fixedbarContent = "Do you want to know me more private?→"
     # fixedbarContentAfter = "Thank You! Please share it if you like it→"
 

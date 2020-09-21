@@ -30,3 +30,9 @@ I'm a blockchain and digital asset guy. I like to talk. But when no one's listen
 Bringing together all of the services across [RSM](https://www.rsmus.com/blockchain) including Audit, Tax, and Consulting, Jay leads the firm’s capability in addressing both enterprise blockchain technology and the adoption of digital assets such as bitcoin.
 
 With 20 years’ experience in information security and technology innovation, Jay helps clients think through the overall risk of adopting blockchain and digital assets and how to mitigate those risks through operational security and proper implementation of the technology.
+
+##### This site:
+
+This site is running [Hugo](http://gohugo.io) with the [Coder Theme](https://github.com/naro143/hugo-coder-portfolio) running on [Netlify](www.netlify.com).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/847e0970-3414-4e2e-8f3d-f0dda628d529/deploy-status)](https://app.netlify.com/sites/focused-hawking-dc709d/deploys)
