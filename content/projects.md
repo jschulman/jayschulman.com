@@ -6,8 +6,8 @@ description = "projects"
 +++
 
 
-[Building a Life and Career in Security](https://www.amazon.com/Building-Life-Career-Security-Information-ebook/dp/B00ZDVKC7M)
+Book: [Building a Life and Career in Security](https://www.amazon.com/Building-Life-Career-Security-Information-ebook/dp/B00ZDVKC7M)
 
-[Securing Amazon Web Services](https://www.amazon.com/gp/product/B019CKY2RU/ref=dbs_a_def_rwt_bibl_vppi_i1)
+Book: [Securing Amazon Web Services](https://www.amazon.com/gp/product/B019CKY2RU/ref=dbs_a_def_rwt_bibl_vppi_i1)
 
-[Blockchain @ RSM](https://www.rsmus.com/blockchain)
+Blockchain Content: [Blockchain @ RSM](https://www.rsmus.com/blockchain)

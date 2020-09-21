@@ -11,7 +11,7 @@ Hi, I'm Jay Schulman.
 
 I'm a blockchain and digital asset guy. I like to talk. But when no one's listening, I write.
 
-## Useless Things You Should Know About Me:
+##### Useless Things You Should Know About Me:
 
 * But I've traveled to 48 out of 50 states. (Montana and Hawaii are on the bucket list.)
 * I fly so much on Southwest Airlines that my wife can fly free with me wherever I go.
@@ -25,7 +25,7 @@ I'm a blockchain and digital asset guy. I like to talk. But when no one's listen
 
 ---------------------------
 
-## My Day Job:
+##### My Day Job:
 
 Bringing together all of the services across [RSM](https://www.rsmus.com/blockchain) including Audit, Tax, and Consulting, Jay leads the firm’s capability in addressing both enterprise blockchain technology and the adoption of digital assets such as bitcoin.
 

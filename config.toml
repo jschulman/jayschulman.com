@@ -26,7 +26,7 @@ pygmentsUseClasses = true
     hideCopyright = false
 
     # Bottom sns share
-    snsShare = false
+    snsShare = true
     # Popular sns share
     # if you want add sns. please message!
     enableTwitterShare = true
