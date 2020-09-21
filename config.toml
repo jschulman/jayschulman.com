@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     keywords = "infosec,bitcoin,blockchain,security,privacy"
     info = "DIGITAL ASSETS - BLOCKCHAIN - SECURITY"
     avatarurl = "images/profile.png"
-    footercontent = "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.”
+    footercontent = "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
     # fixedbarContent = "Do you want to know me more private?→"
     # fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
