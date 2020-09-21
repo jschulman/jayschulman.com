@@ -1,7 +1,7 @@
 baseurl = "http://www.JaySchulman.com/"
 title = "Jay Schulman"
 
-# theme = "coder-portfolio"
+theme = "coder-portfolio"
 
 DefaultContentLanguage = "en"
 
@@ -28,7 +28,7 @@ pygmentsUseClasses = true
     hideCopyright = false
 
     # Bottom sns share
-    snsShare = true
+    snsShare = false
     # Popular sns share
     # if you want add sns. please message!
     enableTwitterShare = true
