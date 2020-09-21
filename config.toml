@@ -33,7 +33,7 @@ pygmentsUseClasses = true
     # if you want add sns. please message!
     enableTwitterShare = true
     enableFacebookShare = false
-    enableHatenaShare = fale
+    enableHatenaShare = false
     enableLineShare = false
     enableLinkedInShare = true
 
