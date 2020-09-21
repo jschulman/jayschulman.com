@@ -1,7 +1,5 @@
-baseurl = "http://www.JaySchulman.com/"
+baseurl = "https://focused-hawking-dc709d.netlify.app/"
 title = "Jay Schulman"
-
-theme = "coder-portfolio"
 
 DefaultContentLanguage = "en"
 
