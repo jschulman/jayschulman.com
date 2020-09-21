@@ -5,8 +5,6 @@ thumbnail = "images/tn.png"
 description = "contact"
 +++
 
-<h1 class="title">Contact</h1>
-
 <p>Got questions or comments? Send them to me!</p>
 
 <form name="contact" action="/contact-success" method="POST" netlify-honeypot="pooh" netlify>

@@ -5,12 +5,9 @@ thumbnail = "images/tn.png"
 description = "projects"
 +++
 
-## Portfolio Demo
 
-{{% portfolio image="/images/tn.png" alt="Coder Portfolio" %}}
+[Building a Life and Career in Security](https://www.amazon.com/Building-Life-Career-Security-Information-ebook/dp/B00ZDVKC7M)
 
-## Coder Portfolio
+[Securing Amazon Web Services](https://www.amazon.com/gp/product/B019CKY2RU/ref=dbs_a_def_rwt_bibl_vppi_i1)
 
-This theme is created based on hugo-coder.  
-I made it possible to tell yourself more by my change.
-{{% /portfolio %}}
+[Blockchain @ RSM](https://www.rsmus.com/blockchain)
