@@ -5,10 +5,6 @@ image = ""
 tags = ["career"]
 +++
 
-# You Need A Platform To Learn
----- 
-### You Need A Platform To Learn
-
 How many times have you sat down determined to learn something new, but given up before you've reached your goal? I'm often asked, "When did you learn…" or "How do you know how to…" This blog has been a big part of my platform to learn for the past two years.
 
 #### A Platform for Learning

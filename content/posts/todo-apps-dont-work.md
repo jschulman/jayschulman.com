@@ -4,10 +4,7 @@ date = "2014-03-04"
 image = ""
 tags = ["productivity"]
 +++
-
-# Why To Do Apps Don't Work
 ---- 
-### Why To Do Apps Don't Work
 I've spent the better part of the past year working my way through todo apps trying to find one that works for me. 99% of them get it all wrong. (Spoiler, even the 1% don't really get it right.)
 
 It is amazing how many apps help you organize your todo list, alert you in all kinds of cool ways that you have something to do, sort, color code, analyze, slice, dice, etc.
