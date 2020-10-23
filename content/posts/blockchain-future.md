@@ -6,8 +6,6 @@ summary = "How will blockchain projects evolve over the next few years."
 tags = ["blockchain"]
 +++
 
-### How to think about Blockchain
-
 ## Linux vs Windows
 
 Many years ago, there was a battle for the desktop.  Windows 95 had been the dominate desktop environment and Linux was barely a thing.  In 2008, Linux held only 1% of the desktop market share.  Today, Linux desktop share isn't much higher.  Therefore we can conclude, Linux must be dead.
