@@ -89,16 +89,21 @@ pygmentsUseClasses = true
                 url = "about"
 
             [[languages.en.menu.main]]
-                name = "Blog"
+                name = "Notes"
                 weight = 2.0
+                url = "notes"
+
+            [[languages.en.menu.main]]
+                name = "Articles"
+                weight = 2.1
                 url = "posts"
 
             [[languages.en.menu.main]]
                 name = "Projects"
                 weight = 3
                 url = "projects"
+
             [[languages.en.menu.main]]
                 name = "Contact me"
                 weight = 5
                 url = "contact"
-
