@@ -2,7 +2,7 @@
 title = "Blockchain Notes."
 date = "2022-01-01"
 image = ""
-tags = [""]
+tags = ["Notes"]
 +++
 
 #### Life moves pretty fast. If you don't stop and look around once in a while, you could miss it
