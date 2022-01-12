@@ -13,8 +13,4 @@ Great tweet thread on Web3:
 
 {{< tweet 1461353565557981200 >}}
 
-Great explainer video:
-
-{{< youtube yLPfPqbAlJw >}}
-
 Understanding Web3 will be worth your time in 2022.
