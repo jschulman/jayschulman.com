@@ -11,7 +11,7 @@ I think about Web3 as the next generation of the Internet.  It's so huge that it
 
 Great tweet thread on Web3:
 
-{{< tweet user="hey_bernie" id="1461353565557981200" >}}
+{{< tweet 1461353565557981200 >}}
 
 Great explainer video:
 
