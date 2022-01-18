@@ -1,6 +1,5 @@
 +++
 date = 2022-01-18T06:00:00Z
-draft = true
 image = ""
 tags = ["NFT"]
 title = "When NFTs can get troublesome"
