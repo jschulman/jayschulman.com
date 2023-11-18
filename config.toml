@@ -1,4 +1,4 @@
-baseurl = "http://www.JaySchulman.com"
+baseurl = "https://JaySchulman.com"
 title = "Jay Schulman"
 
 theme = "coder-portfolio"
@@ -65,10 +65,6 @@ pygmentsUseClasses = true
     icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/jschulman/"
-# [[params.social]]
-#    name = "LinkedIn"
-#    weight = 4
-#    url = "https://www.linkedin.com/in/naro143/"
 
 [languages]
     [languages.en]
