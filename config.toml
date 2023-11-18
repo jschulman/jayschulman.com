@@ -1,5 +1,7 @@
-baseurl = "https://JaySchulman.com/"
+baseurl = "http://www.JaySchulman.com"
 title = "Jay Schulman"
+
+theme = "coder-portfolio"
 
 DefaultContentLanguage = "en"
 
@@ -107,3 +109,4 @@ pygmentsUseClasses = true
                 name = "Contact me"
                 weight = 5
                 url = "contact"
+
