@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "596625c7dca3fb65",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8ecc29820e2b4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/decentralization-and-immutability.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3191d27aca4623d",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b784d499321f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cce588aae3c3e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa3032280e6dc643",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "870152e31867a9f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "63751e936d97666b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352312ac1f6cea9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/decentralization-and-immutability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e8ecc29820e2b4f",
+  "lastOpenFiles": [
+    "content/notes/decentralization-and-immutability.md",
+    "content/notes/what-is-web3.md",
+    "content/notes/blockchain-notes.md",
+    "content/projects.md",
+    "content/contact.md",
+    "content/about.md",
+    "archetypes/default.md",
+    "archetypes/notes.md",
+    "archetypes/posts.md"
+  ]
+}
