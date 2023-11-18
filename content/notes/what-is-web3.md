@@ -1,8 +1,8 @@
 +++
 title = "What is Web3?"
-date = "2022-01-02"
 image = ""
 tags = ["Web3"]
+date = 2020-07-01
 +++
 
 #### Already the Word of 2022

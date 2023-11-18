@@ -1,8 +1,8 @@
 +++
 title = "Blockchain Notes."
-date = "2022-01-01"
 image = ""
 tags = ["Notes"]
+date = 2020-05-01
 +++
 
 #### Life moves pretty fast. If you don't stop and look around once in a while, you could miss it

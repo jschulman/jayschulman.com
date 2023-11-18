@@ -1,8 +1,8 @@
 +++
-date = 2022-01-18T06:00:00Z
 image = ""
 tags = ["NFT"]
 title = "When NFTs can get troublesome"
+date = 2020-08-01
 
 +++
 Rug Radio has an interesting NFT model around building a new media company via NFTs.  The model is below.

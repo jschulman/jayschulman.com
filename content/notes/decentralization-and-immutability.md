@@ -1,8 +1,8 @@
 +++
 title = "Decentalization and Immutability"
-date = "2022-01-13"
 image = ""
 tags = ["Notes"]
+date = 2020-06-01
 +++
 
 Really interesting action by Dapper Labs today:
