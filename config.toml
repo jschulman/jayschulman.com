@@ -17,7 +17,7 @@ pygmentsUseClasses = true
 [params]
     author = "Jay Schulman"
     description = "Jay Schulman, Information Security, Digital Assets and Blockchain Consultant"
-    keywords = "infosec,bitcoin,blockchain,security,privacy"
+    keywords = "infosec,bitcoin,blockchain,security,privacy,ethereum"
     info = "DIGITAL ASSETS - BLOCKCHAIN - SECURITY"
     avatarurl = "images/profile.png"
     footercontent = "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
