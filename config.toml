@@ -87,11 +87,6 @@ pygmentsUseClasses = true
                 url = "about"
 
             [[languages.en.menu.main]]
-                name = "Notes"
-                weight = 2.1
-                url = "notes"
-
-            [[languages.en.menu.main]]
                 name = "Articles"
                 weight = 2.2
                 url = "posts"
@@ -100,6 +95,32 @@ pygmentsUseClasses = true
                 name = "Projects"
                 weight = 3
                 url = "projects"
+
+            [languages.en.menu.main]]
+                name = "100 Days"     
+                weight = 4
+                identifier = "100days"
+                url = "100days"  
+            [[languages.en.menu.main]]     
+                name = "Blockchain"     
+                weight = 4.1     
+                parent = "100days"     
+                url = "100days/blockchain"  
+            [[languages.en.menu.main]]     
+                name = "NFTs"     
+                weight = 4.2     
+                parent = "100days"     
+                url = "100days/nfts"  
+            [[languages.en.menu.main]]     
+                name = "DeFi"     
+                weight = 4.3     
+                parent = "100days"     
+                url = "100days/defi"  
+            [[languages.en.menu.main]]     
+                name = "Tokenization"     
+                weight = 4.4     
+                parent = "100days"     
+                url = "100days/tokenization" 
 
             [[languages.en.menu.main]]
                 name = "Contact me"
