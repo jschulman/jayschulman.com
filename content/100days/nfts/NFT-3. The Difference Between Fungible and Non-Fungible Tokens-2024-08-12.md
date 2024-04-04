@@ -1,5 +1,5 @@
 ---
-title: The Difference Between Fungible and Non-Fungible Tokens: A Tale of Two Assets 
+title: "The Difference Between Fungible and Non-Fungible Tokens: A Tale of Two Assets"
 slug: the-difference-between-fungible-and-non-fungible-tokens
 date: 2024-08-12
 tags: blockchain, fungible tokens, non-fungible tokens, NFTs, digital assets

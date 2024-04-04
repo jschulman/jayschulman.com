@@ -1,5 +1,5 @@
 ---
-title: Decoding the Mystery of NFT Metadata: Why It Matters More Than You Think
+title: "Decoding the Mystery of NFT Metadata: Why It Matters More Than You Think"
 slug: decoding-the-mystery-of-nft-metadata-why-it-matters-more-than-you-think
 date: 2024-08-20
 tags: NFTs, metadata, blockchain, digital assets

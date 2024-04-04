@@ -1,5 +1,5 @@
 ---
-title: NFT Scams: Protecting Your Digital Assets in the Wild West of Blockchain
+title: "NFT Scams: Protecting Your Digital Assets in the Wild West of Blockchain"
 slug: nft-scams-protecting-your-digital-assets-in-the-wild-west-of-blockchain
 date: 2024-09-06
 tags: NFTs, Scams, Blockchain, Digital Assets, Security
