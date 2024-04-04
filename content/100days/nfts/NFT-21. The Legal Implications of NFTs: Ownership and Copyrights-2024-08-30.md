@@ -1,5 +1,5 @@
 ---
-title: The Legal Implications of NFTs: Ownership and Copyrights
+title: "The Legal Implications of NFTs: Ownership and Copyrights"
 slug: the-legal-implications-of-nfts-ownership-and-copyrights
 date: 2024-08-30
 tags: blockchain, NFTs, legal, ownership, copyrights

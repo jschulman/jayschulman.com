@@ -1,5 +1,5 @@
 ---
-title: The Risks of NFT Investing: Separating Hype from Value
+title: "The Risks of NFT Investing: Separating Hype from Value"
 slug: the-risks-of-nft-investing-separating-hype-from-value
 date: 2024-09-05
 tags: NFT, investing, risks, blockchain, speculation

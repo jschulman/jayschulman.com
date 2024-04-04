@@ -1,5 +1,5 @@
 ---
-title: Building NFT Communities: Connecting Creators and Collectors
+title: "Building NFT Communities: Connecting Creators and Collectors"
 slug: building-nft-communities-connecting-creators-and-collectors
 date: 2024-09-07
 tags: NFT, blockchain, community, creators, collectors

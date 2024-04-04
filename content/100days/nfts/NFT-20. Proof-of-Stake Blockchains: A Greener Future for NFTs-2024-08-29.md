@@ -1,5 +1,5 @@
 ---
-title: Unlocking a Greener Future for NFTs with Proof-of-Stake Blockchains
+title: "Unlocking a Greener Future for NFTs with Proof-of-Stake Blockchains"
 slug: unlocking-a-greener-future-for-nfts-with-proof-of-stake-blockchains
 date: 2024-08-29
 tags: NFTs, Blockchain, Proof-of-Stake, Sustainability, Ethereum 2.0, Tezos, Flow

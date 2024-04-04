@@ -1,5 +1,5 @@
 ---
-title: The History of NFTs: From Colored Coins to Cryptokitties
+title: "The History of NFTs: From Colored Coins to Cryptokitties"
 slug: the-history-of-nfts-from-colored-coins-to-cryptokitties
 date: 2024-08-13
 tags: blockchain, NFTs, colored coins, Counterparty, Rare Pepes, Ethereum, ERC-721, Cryptokitties

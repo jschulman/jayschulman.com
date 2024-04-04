@@ -1,5 +1,5 @@
 ---
-title: NFTs in Gaming: Revolutionizing In-Game Assets
+title: "NFTs in Gaming: Revolutionizing In-Game Assets"
 slug: nfts-in-gaming-revolutionizing-in-game-assets
 date: 2024-08-23
 tags: NFTs, gaming, blockchain, digital assets, innovation

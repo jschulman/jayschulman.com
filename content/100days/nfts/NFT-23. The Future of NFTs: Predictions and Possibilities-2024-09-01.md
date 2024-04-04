@@ -1,5 +1,5 @@
 ---
-title: The Future of NFTs: Predictions and Possibilities
+title: "The Future of NFTs: Predictions and Possibilities"
 slug: the-future-of-nfts-predictions-and-possibilities
 date: 2024-09-01
 tags: NFTs, blockchain, art, collectibles, gaming, real estate, supply chain management

@@ -1,5 +1,5 @@
 ---
-title: Navigating the Complex World of NFT Taxation
+title: "Navigating the Complex World of NFT Taxation"
 slug: navigating-the-complex-world-of-nft-taxation
 date: 2024-08-31
 tags: NFT, Taxation, Blockchain, Creators, Collectors

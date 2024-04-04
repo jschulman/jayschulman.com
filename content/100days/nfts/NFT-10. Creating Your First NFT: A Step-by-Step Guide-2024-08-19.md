@@ -1,5 +1,5 @@
 ---
-title: Creating Your First NFT: A Step-by-Step Guide 🎨🚀
+title: "Creating Your First NFT: A Step-by-Step Guide"
 slug: creating-your-first-NFT-step-by-step-guide 
 date: 2024-08-19
 tags: blockchain, NFT, digital assets, ERC-721, smart contracts

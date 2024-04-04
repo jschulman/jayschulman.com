@@ -1,5 +1,5 @@
 ---
-title: Fractional NFTs: Democratizing Ownership
+title: "Fractional NFTs: Democratizing Ownership"
 slug: fractional-nfts-democratizing-ownership
 date: 2024-09-03
 tags: NFTs, fractional ownership, blockchain

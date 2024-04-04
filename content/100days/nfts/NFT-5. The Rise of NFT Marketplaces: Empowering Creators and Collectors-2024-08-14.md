@@ -1,5 +1,5 @@
 ---
-title: The Rise of NFT Marketplaces: Empowering Creators and Collectors
+title: "The Rise of NFT Marketplaces: Empowering Creators and Collectors"
 slug: the-rise-of-nft-marketplaces-empowering-creators-and-collectors
 date: 2024-08-14
 tags: blockchain, NFT, creators, collectors, marketplaces

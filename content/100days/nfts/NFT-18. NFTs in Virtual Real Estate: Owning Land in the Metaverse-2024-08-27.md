@@ -1,5 +1,5 @@
 ---
-title: NFTs in Virtual Real Estate: Owning Land in the Metaverse
+title: "NFTs in Virtual Real Estate: Owning Land in the Metaverse"
 slug: nfts-in-virtual-real-estate-owning-land-in-the-metaverse
 date: 2024-08-27
 tags: NFTs, virtual real estate, metaverse, blockchain, digital ownership

@@ -1,5 +1,5 @@
 ---
-title: Introducing Rarible: The Decentralized NFT Marketplace
+title: "Introducing Rarible: The Decentralized NFT Marketplace"
 slug: introducing-rarible-the-decentralized-nft-marketplace
 date: 2024-08-16
 tags: blockchain, NFT, Ethereum, decentralization, marketplace

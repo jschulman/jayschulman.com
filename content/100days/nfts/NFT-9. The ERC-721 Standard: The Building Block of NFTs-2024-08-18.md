@@ -1,5 +1,5 @@
 ---
-title: The ERC-721 Standard: The Building Block of NFTs 🧱
+title: "The ERC-721 Standard: The Building Block of NFTs"
 slug: erc-721-standard-building-block-of-NFTs
 date: 2024-08-18
 tags: blockchain, ERC-721, NFT, digital assets, smart contracts

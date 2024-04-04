@@ -1,5 +1,5 @@
 ---
-title: The Potential of NFTs: Reimagining Digital Ownership
+title: "The Potential of NFTs: Reimagining Digital Ownership"
 slug: the-potential-of-nfts-reimagining-digital-ownership
 date: 2024-09-08
 tags: NFTs, blockchain, digital ownership, art, music, gaming, real estate, fashion, sports

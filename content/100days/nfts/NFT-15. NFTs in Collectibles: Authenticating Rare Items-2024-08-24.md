@@ -1,5 +1,5 @@
 ---
-title: NFTs in Collectibles: Authenticating Rare Items
+title: "NFTs in Collectibles: Authenticating Rare Items"
 slug: nfts-in-collectibles-authenticating-rare-items
 date: 2024-08-24
 tags: NFTs, collectibles, blockchain, digital assets, authentication

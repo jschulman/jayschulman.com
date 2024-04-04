@@ -1,5 +1,5 @@
 ---
-title: 🌊 OpenSea: Your Gateway to the World of NFTs 🖼️
+title: "OpenSea: Your Gateway to the World of NFTs"
 slug: opensea-your-gateway-to-the-world-of-nfts
 date: 2024-08-15
 tags: NFTs, blockchain, digital ownership, OpenSea

@@ -1,5 +1,5 @@
 ---
-title: IPFS: Decentralized Storage for NFTs 🌐🚀
+title: "IPFS: Decentralized Storage for NFTs"
 slug: ipfs-decentralized-storage-for-nfts
 date: 2024-08-21
 tags: IPFS, NFTs, Decentralized Storage, Blockchain

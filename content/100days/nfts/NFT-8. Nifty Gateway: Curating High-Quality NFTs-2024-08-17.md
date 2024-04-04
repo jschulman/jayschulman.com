@@ -1,5 +1,5 @@
 ---
-title: Nifty Gateway: Curating High-Quality NFTs 🎨
+title: "Nifty Gateway: Curating High-Quality NFTs"
 slug: nifty-gateway-curating-high-quality-NFTs
 date: 2024-08-17
 tags: blockchain, NFT, digital art, curation, Nifty Gateway

@@ -1,5 +1,5 @@
 ---
-title: NFTs in Music: Empowering Artists and Fans
+title: "NFTs in Music: Empowering Artists and Fans"
 slug: nfts-in-music-empowering-artists-and-fans
 date: 2024-08-25
 tags: blockchain, music, NFTs, artists, fans

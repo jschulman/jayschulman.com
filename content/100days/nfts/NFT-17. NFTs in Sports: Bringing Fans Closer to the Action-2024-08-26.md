@@ -1,5 +1,5 @@
 ---
-title: NFTs in Sports: Bringing Fans Closer to the Action
+title: "NFTs in Sports: Bringing Fans Closer to the Action"
 slug: nfts-in-sports-bringing-fans-closer-to-the-action
 date: 2024-08-26
 tags: NFTs, sports, fan engagement, digital collectibles, blockchain

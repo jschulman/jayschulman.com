@@ -1,5 +1,5 @@
 ---
-title: NFTs: The New Frontier of Digital Ownership
+title: "NFTs: The New Frontier of Digital Ownership"
 slug: nfts-the-new-frontier-of-digital-ownership
 date: 2024-06-18
 tags: NFTs, blockchain, digital ownership, digital assets

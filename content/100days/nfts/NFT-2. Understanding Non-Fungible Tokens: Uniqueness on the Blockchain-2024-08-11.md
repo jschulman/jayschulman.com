@@ -1,5 +1,5 @@
 ---
-title: Understanding Non-Fungible Tokens: Uniqueness on the Blockchain
+title: "Understanding Non-Fungible Tokens: Uniqueness on the Blockchain"
 slug: understanding-non-fungible-tokens-uniqueness-on-the-blockchain
 date: 2024-08-11
 tags: NFTs, blockchain, digital assets, uniqueness

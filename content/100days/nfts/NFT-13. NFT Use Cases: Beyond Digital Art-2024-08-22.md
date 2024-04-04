@@ -1,5 +1,5 @@
 ---
-title: NFTs: Unlocking a World of Possibilities Beyond Digital Art
+title: "NFTs: Unlocking a World of Possibilities Beyond Digital Art"
 slug: nfts-unlocking-a-world-of-possibilities-beyond-digital-art
 date: 2024-08-22
 tags: NFTs, blockchain, innovation, digital art, music, gaming, education, identity, sustainability

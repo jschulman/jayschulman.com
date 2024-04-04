@@ -1,5 +1,5 @@
 ---
-title: NFTs: Unlocking the Potential of Digital Ownership
+title: "NFTs: Unlocking the Potential of Digital Ownership"
 slug: nfts-unlocking-the-potential-of-digital-ownership
 date: 2024-08-10
 tags: NFTs, blockchain, digital ownership, business strategy

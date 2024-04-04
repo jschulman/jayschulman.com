@@ -1,5 +1,5 @@
 ---
-title: NFTs and DeFi: The Convergence of Two Worlds
+title: "NFTs and DeFi: The Convergence of Two Worlds"
 slug: nfts-and-defi-the-convergence-of-two-worlds
 date: 2024-09-02
 tags: NFTs, DeFi, blockchain

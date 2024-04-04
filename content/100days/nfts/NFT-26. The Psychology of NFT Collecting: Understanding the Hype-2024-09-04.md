@@ -1,5 +1,5 @@
 ---
-title: The Psychology of NFT Collecting: Understanding the Hype
+title: "The Psychology of NFT Collecting: Understanding the Hype"
 slug: the-psychology-of-nft-collecting-understanding-the-hype
 date: 2024-09-04
 tags: NFTs, Psychology, Art, Collecting, Investment

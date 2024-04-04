@@ -1,5 +1,5 @@
 ---
-title: The Environmental Impact of NFTs: Addressing the Concerns 🌿
+title: "The Environmental Impact of NFTs: Addressing the Concerns"
 slug: environmental-impact-of-nfts-addressing-the-concerns
 date: 2024-08-28
 tags: NFTs, environmental impact, energy consumption, blockchain, sustainability
