@@ -1,5 +1,5 @@
 ---
-title: "100 Days"
+title: "The 100 Days Project"
 description: "Explore the world of NFTs, DeFi, and Tokenization"
 ---
 
