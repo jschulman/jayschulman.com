@@ -1,10 +1,18 @@
+<section class="hero">
+  <div class="container">
+    <h1>Empowering Businesses with Blockchain and Digital Assets</h1>
+    <p>I am a blockchain and digital assets expert with over 20 years of experience in information security and technology innovation.</p>
+    <a href="#services" class="btn btn-primary">Explore Services</a>
+  </div>
+</section>
+
 <section class="container centered">
   <div class="about">
     {{ with .Site.Params.avatarurl }}
       <div class="avatar"><img src="{{ . | absURL }}" alt="avatar"></div>
     {{ end }}
-    <h1>{{ .Site.Params.author }}</h1>
-    <h2>{{ .Site.Params.info }}</h2>
+    <h2>{{ .Site.Params.author }}</h2>
+    <p>{{ .Site.Params.info }}</p>
     {{ with .Site.Params.social }}
     <ul class="social-list">
       {{ range sort . "weight"}}
@@ -20,5 +28,19 @@
       {{ end }}
     </ul>
     {{ end }}
+  </div>
+</section>
+
+<section id="services" class="services">
+  <div class="container">
+    <h2>Services and Products</h2>
+    <div class="services-grid">
+      {{ range .Site.Params.services.services }}
+        <div class="service-item">
+          <h3>{{ . }}</h3>
+          <p>Description of the service goes here.</p>
+        </div>
+      {{ end }}
+    </div>
   </div>
 </section>

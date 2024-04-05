@@ -16,11 +16,11 @@ pygmentsUseClasses = true
 
 [params]
     author = "Jay Schulman"
-    description = "Jay Schulman, Information Security, Digital Assets and Blockchain Consultant"
-    keywords = "infosec,bitcoin,blockchain,security,privacy,ethereum"
-    info = "DIGITAL ASSETS - BLOCKCHAIN - SECURITY"
+    description = "Empowering businesses to harness the potential of blockchain and digital assets through strategic implementation and risk management"
+    keywords = "blockchain, digital assets, information security, technology innovation, risk management"
+    info = "25 Years of Experience | Blockchain & Digital Assets Expert | Information Security Management"
+    footercontent = "Innovating with blockchain and digital assets while prioritizing security and risk management."
     avatarurl = "images/profile.png"
-    footercontent = "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
     # fixedbarContent = "Do you want to know me more private?→"
     # fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
@@ -49,6 +49,15 @@ pygmentsUseClasses = true
     rtl = false
 
     langseparator = "|"
+
+[params.services]
+    title = "How I Can Help"
+    services = [
+        "Blockchain Education",
+        "Digital Asset Risk Management",
+        "Information Security and Operational Security",
+        "Technology Innovation and Strategy",
+    ]
 
 [[params.social]]
     name = "Github"
