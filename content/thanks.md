@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Thank You
+title: Thank You For Subscribing
 permalink: /thanks/
 ---
-
-# Thank You for Subscribing!
 
 We're thrilled to have you on board for the "Blockchain Mastery in 100 Days" journey. Your decision to invest in your knowledge of blockchain and digital assets is commendable.
 
