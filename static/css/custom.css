@@ -89,6 +89,15 @@ a {
   }
 }
 
+.post-header-image {
+  margin-bottom: 20px;
+}
+
+.post-header-image img {
+  max-width: 100%;
+  height: auto;
+}
+
 .section-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
