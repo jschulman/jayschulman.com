@@ -2,7 +2,7 @@
 title = "About Jay"
 slug = "about"
 thumbnail = "images/tn.png"
-description = "about"
+description = "All about Jay Schulman"
 +++
 
 ---------------------------
