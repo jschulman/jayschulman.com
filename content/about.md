@@ -7,32 +7,36 @@ description = "about"
 
 ---------------------------
 
-Hi, I'm Jay Schulman.
+Hi, I'm Jay Schulman, a seasoned professional with a passion for blockchain technology and digital assets. With over 25 years of experience in information security and technology innovation, I bring a unique perspective to help businesses navigate the complex world of blockchain and digital assets.
 
-I'm a blockchain and digital asset guy. I like to talk. But when no one's listening, I write.
+As the leader of [RSM](https://www.rsmus.com/blockchain)'s blockchain and digital asset services, I work closely with our Audit, Tax, and Consulting teams to provide comprehensive solutions for our clients. My expertise lies in helping enterprises understand and mitigate the risks associated with adopting blockchain technology and digital assets, such as Bitcoin, while harnessing their potential through strategic implementation and operational security.
 
-##### Useless Things You Should Know About Me:
+##### My Approach:
 
-* But I've traveled to 48 out of 50 states. (Montana and Hawaii are on the bucket list.)
-* I fly so much on Southwest Airlines that my wife can fly free with me wherever I go.
-* Unfortunately I haven't reached the point where my kids can also fly free.
-* In 1999, the FBI said they didn't need someone with my skills.
-* Also in 1999, Playboy said they needed my skills. Security skills, that is.
-* I turned them down to work for KPMG.
-* It worked out ok. 10 years employment. They found me my wife. And how to be a great manager.
-* And great examples of how not to manage people.
-* Today I work for RSM. They allow me to do this. I think.
+* **Innovation**: I stay at the forefront of emerging technologies to help clients stay ahead of the curve.
+* **Strategic Thinking**: I develop tailored strategies to align with each client's unique goals and challenges.
+* **Risk Management**: I prioritize risk mitigation to ensure the secure and successful adoption of blockchain and digital assets.
+* **Client-Centric**: I focus on building long-term relationships and delivering value to our clients.
+
+##### How I Help:
+
+* Blockchain strategy consulting and implementation guidance
+* Digital asset adoption and risk management advisory
+* Information security and operational security consulting
+* Technology innovation and implementation services
+* Training and workshops on blockchain, digital assets, and cybersecurity
 
 ---------------------------
 
-##### My Day Job:
+##### A Bit About Me:
 
-Bringing together all of the services across [RSM](https://www.rsmus.com/blockchain) including Audit, Tax, and Consulting, Jay leads the firm’s capability in addressing both enterprise blockchain technology and the adoption of digital assets such as bitcoin.
+* I've traveled to 48 out of 50 states, with Montana and Hawaii on my bucket list.
+* In 1999, I turned down an offer from Playboy (for security skills, of course) to work for KPMG.
+* My 10-year tenure at KPMG was filled with valuable experiences, both in management and personal life.
+* Today, I'm proud to be a part of the RSM team, where I can pursue my passion for blockchain and digital assets.
 
-With 20 years’ experience in information security and technology innovation, Jay helps clients think through the overall risk of adopting blockchain and digital assets and how to mitigate those risks through operational security and proper implementation of the technology.
+---------------------------
 
-##### This site:
-
-This site is running [Hugo](http://gohugo.io) with the [Coder Theme](https://github.com/naro143/hugo-coder-portfolio) running on [Netlify](www.netlify.com).
+This site is running [Hugo](http://gohugo.io) with the [Coder Theme](https://github.com/naro143/hugo-coder-portfolio) on [Netlify](www.netlify.com).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/847e0970-3414-4e2e-8f3d-f0dda628d529/deploy-status)](https://app.netlify.com/sites/focused-hawking-dc709d/deploys)
