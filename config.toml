@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 # disqusShortname = "yourdiscussshortname"
 
 [permalinks]
-  posts = "/:section/:year/:month/:day/:slug/"
+  posts = "/:section/:slug/"
 
 [params]
     author = "Jay Schulman"
@@ -148,6 +148,3 @@ pygmentsUseClasses = true
 
 [outputFormats.RSS]
   baseName = "feed"
-
-[markup.goldmark.renderer]
-  unsafe = true
