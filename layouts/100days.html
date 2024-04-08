@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="100days">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+    <div class="subdirectories">
+      {{ range .Sections }}
+        <div class="subdirectory">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p>{{ .Description }}</p>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
