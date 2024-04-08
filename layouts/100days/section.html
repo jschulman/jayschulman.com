@@ -16,7 +16,7 @@
       </div>
     {{ else }}
       <div class="posts">
-	  {{ range sort .Pages "Date" "desc" }}
+	  {{ range sort .Pages "Date" "asc" }}
           <article class="post-summary">
 		  <li><span>{{ .Date.Format "January 2, 2006" }}</span>: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
           </article>

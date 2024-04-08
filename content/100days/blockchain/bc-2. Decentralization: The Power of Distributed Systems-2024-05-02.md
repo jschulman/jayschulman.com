@@ -1,5 +1,5 @@
 ---
-title: "2. Decentralization: The Power of Distributed Systems 🌐"
+title: "Decentralization: The Power of Distributed Systems 🌐"
 slug: decentralization-power-of-distributed-systems
 date: 2024-05-02
 tags: Decentralization, Distributed Systems, Blockchain, Resilience

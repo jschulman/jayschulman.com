@@ -1,5 +1,5 @@
 ---
-title: "7. Dai: The Decentralized Stablecoin Powered by MakerDAO"
+title: "Dai: The Decentralized Stablecoin Powered by MakerDAO"
 slug: dai-decentralized-stablecoin-makerdao
 date: 2024-09-15
 tags: blockchain, DeFi, stablecoins, Dai, MakerDAO
