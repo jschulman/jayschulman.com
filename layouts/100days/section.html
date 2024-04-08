@@ -1,8 +1,10 @@
-{{ define "main" }}
+{{ define "content" }}
 <section class="100days">
   <div class="container">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
+    <div class="content">
+      {{ .Content }}
+    </div>
 
     <div class="subdirectories">
       {{ range .Sections }}
