@@ -6,17 +6,6 @@
       {{ .Content }}
     </div>
 
-    <div class="posts">
-      {{ range .Pages }}
-        <article class="post">
-          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <p class="date">{{ .Date.Format "January 2, 2006" }}</p>
-          <p>{{ .Summary }}</p>
-          <a href="{{ .Permalink }}" class="read-more">Read more...</a>
-        </article>
-      {{ end }}
-    </div>
-
     <div class="subdirectories">
       {{ range .Sections }}
         <div class="subdirectory">
