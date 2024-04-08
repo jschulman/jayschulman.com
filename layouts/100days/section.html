@@ -2,7 +2,9 @@
 <section class="100days">
   <div class="container">
     <h1>{{ .Title }}</h1>
-    {{ .Content }}
+    <div class="content">
+      {{ .Content }}
+    </div>
 
     {{ if .Sections }}
       <div class="subdirectories">
@@ -15,7 +17,7 @@
     {{ else }}
       <div class="posts">
         {{ range .Pages }}
-          <article class="post">
+          <article class="post-summary">
 		  <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
           </article>
         {{ end }}
