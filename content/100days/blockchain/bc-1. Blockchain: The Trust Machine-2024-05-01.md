@@ -1,7 +1,7 @@
 ---
 title: "Blockchain: The Trust Machine 🔒"
 slug: blockchain-the-trust-machine
-date: 2024-05-01
+date: 2024-04-01
 tags: Blockchain, Decentralization, Trust, Transparency
 ---
 
