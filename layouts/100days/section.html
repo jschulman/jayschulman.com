@@ -2,15 +2,12 @@
 <section class="100days">
   <div class="container">
     <h1>{{ .Title }}</h1>
-    <div class="content">
-      {{ .Content }}
-    </div>
+    {{ .Content }}
 
     <div class="subdirectories">
       {{ range .Sections }}
         <div class="subdirectory">
-          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <p>{{ .Description }}</p>
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a>: {{ .Description }}</li>
         </div>
       {{ end }}
     </div>
