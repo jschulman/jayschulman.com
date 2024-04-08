@@ -1,5 +1,5 @@
 ---
-title: "13. Sia: The Decentralized Cloud Storage Platform"
+title: "Sia: The Decentralized Cloud Storage Platform"
 slug: sia-the-decentralized-cloud-storage-platform
 date: 2024-12-13
 tags: decentralized cloud storage, blockchain, Sia

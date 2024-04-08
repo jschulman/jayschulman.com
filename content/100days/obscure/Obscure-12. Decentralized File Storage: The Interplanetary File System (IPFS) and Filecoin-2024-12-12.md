@@ -1,5 +1,5 @@
 ---
-title: "12. Decentralized File Storage: The Interplanetary File System (IPFS) and Filecoin"
+title: "Decentralized File Storage: The Interplanetary File System (IPFS) and Filecoin"
 slug: decentralized-file-storage-ipfs-filecoin
 date: 2024-12-12
 tags: Blockchain, Decentralization, IPFS, Filecoin, Decentralized Storage

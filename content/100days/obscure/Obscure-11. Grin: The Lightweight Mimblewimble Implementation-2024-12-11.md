@@ -1,5 +1,5 @@
 ---
-title: "11. Grin: The Lightweight Mimblewimble Implementation"
+title: "Grin: The Lightweight Mimblewimble Implementation"
 slug: grin-the-lightweight-mimblewimble-implementation
 date: 2024-12-11
 tags: Blockchain, Privacy, Grin, Mimblewimble, Cryptocurrency, Lightweight Implementation
