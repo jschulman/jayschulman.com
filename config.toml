@@ -12,7 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
-# disqusShortname = "yourdiscussshortname"
+buildFuture = true
 
 [permalinks]
   posts = "/:section/:slug/"

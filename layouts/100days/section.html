@@ -18,7 +18,7 @@
       <div class="posts">
         {{ range .Pages }}
           <article class="post-summary">
-		  <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		  <li><span>{{ .Date.Format "January 2, 2006" }}</span>: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
           </article>
         {{ end }}
       </div>
