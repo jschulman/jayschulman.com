@@ -1,14 +1,18 @@
 {{ define "content" }}
 <section class="subsection">
- <h1 class="title">{{ .Title }}</h1>
-  <ul>
-    {{ range .Paginator.Pages }}
-    <li>
-      <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
-  {{ partial "pagination.html" . }}
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <div class="posts">
+      {{ range .Pages }}
+        <article class="post">
+	  <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        </article>
+      {{ end }}
+    </div>
+  </div>
 </section>
 {{ end }}
-
