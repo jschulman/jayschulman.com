@@ -10,8 +10,8 @@ Each day, I will explore a specific topic, share my insights, and provide valuab
 The series is divided into the following categories:
 
 - [Day 1-100: Introduction to Blockchain](/100days/blockchain/)
-- [Day 101-130: NFTs](/100days/nfts/)
-- [Day 131-160: Decentralized Finance](/100days/defi/)
+- [Day 101-130: Decentralized Finance](/100days/defi/)
+- [Day 131-160: NFTs](/100days/nfts/)
 - [Day 161-190: Zero Knowledge](/100days/zk/)
 - [Day 191-210: Tokenization](/100days/tokenization/)
 - [Day 211-241: Obscure Blockchain Knowledge](/100days/obscure/)

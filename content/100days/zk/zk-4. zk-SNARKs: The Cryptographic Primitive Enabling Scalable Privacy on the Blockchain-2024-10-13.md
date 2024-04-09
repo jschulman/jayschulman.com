@@ -1,5 +1,5 @@
 ---
-title: "zk-SNARKs: The Cryptographic Primitive Enabling Scalable Privacy on the Blockchain"
+title: "4. zk-SNARKs: The Cryptographic Primitive Enabling Scalable Privacy on the Blockchain"
 slug: zk-snarks-the-cryptographic-primitive-enabling-scalable-privacy-on-the-blockchain
 date: 2024-10-13
 tags: blockchain, zk-SNARKs, cryptography, privacy, security, scalability

@@ -1,5 +1,5 @@
 ---
-title: "DeFi and Traditional Finance: The Path to Convergence 🤝"
+title: "30. DeFi and Traditional Finance: The Path to Convergence 🤝"
 slug: 30-defi-and-traditional-finance-the-path-to-convergence
 date: 2024-10-08
 tags: blockchain, DeFi, traditional finance, convergence

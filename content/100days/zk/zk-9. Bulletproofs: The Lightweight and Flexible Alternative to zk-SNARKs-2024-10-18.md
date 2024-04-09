@@ -1,5 +1,5 @@
 ---
-title: "Bulletproofs: The Lightweight and Flexible Alternative to zk-SNARKs"
+title: "9. Bulletproofs: The Lightweight and Flexible Alternative to zk-SNARKs"
 slug: 9-bulletproofs-the-lightweight-and-flexible-alternative-to-zk-snarks
 date: 2024-10-18
 tags: blockchain, privacy, scalability, zero-knowledge proofs, Bulletproofs

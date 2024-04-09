@@ -1,5 +1,5 @@
 ---
-title: "Nexus Mutual: The Decentralized Insurance Protocol"
+title: "21. Nexus Mutual: The Decentralized Insurance Protocol"
 slug: nexus-mutual-the-decentralized-insurance-protocol
 date: 2024-09-29
 tags: blockchain, DeFi, Nexus Mutual, decentralized insurance, risk management, smart contracts
