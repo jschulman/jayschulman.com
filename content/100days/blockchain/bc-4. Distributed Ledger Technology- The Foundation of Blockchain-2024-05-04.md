@@ -1,5 +1,5 @@
 ---
-title: "Distributed Ledger Technology: The Backbone of Blockchain 🌉"
+title: "Distributed Ledger Technology: The Backbone of Blockchain "
 slug: distributed-ledger-technology-the-backbone-of-blockchain
 date: 2024-05-04
 tags: blockchain, DLT, technology, decentralization
