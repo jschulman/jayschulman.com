@@ -17,7 +17,9 @@ At RSM, we developed the Blockchain Fellowship, a deep educational intensive to 
     <div class="column">
       <h3>Work with RSM</h3>
       <p>My goal is everything we do as a firm, we should be able to do in digital assets.  Let us help you!</p>
-      <p>Email work@blockchainjay.org and I'll connect you with our client team.</p>
+	<ul>
+      <li>Email work@blockchainjay.org and I'll connect you with our client team.</li>
+	</ul>
     </div>
   </div>
 </div>
