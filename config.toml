@@ -24,8 +24,6 @@ buildFuture = true
     info = "25 Years of Experience | Blockchain & Digital Assets Expert | Information Security Management"
     footercontent = "Innovating with blockchain and digital assets while prioritizing security and risk management."
     avatarurl = "images/profile.png"
-    # fixedbarContent = "Do you want to know me more private?→"
-    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
     hideCredits = true
     hideCopyright = false
@@ -135,12 +133,17 @@ buildFuture = true
                 url = "100days/tokenization" 
 
             [[languages.en.menu.main]]
-                name = "Contact me"
+                name = "RSM"
                 weight = 5
+                url = "https://rsmus.com/blockchain"
+
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 6
                 url = "contact"
 
 [taxonomies]
-  tag = "tags"
+  tag = "topics"
   category = "categories"
 
 [outputs]

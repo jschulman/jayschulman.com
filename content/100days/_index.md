@@ -7,20 +7,22 @@ At RSM, we developed the Blockchain Fellowship, a deep educational intensive to 
 
 Each day, I will explore a specific topic, share my insights, and provide valuable resources to help you understand and navigate this exciting field.
 
-<div class="two-column-section">
-  <div class="column">
-    <h2>Take the REAL RSM Fellowship</h2>
-    <p>Come work at RSM along with 100s of great blockchain and digital assets resources!</p>
-    <ul>
-      <li>Email job@blockchainjay.org and I'll connect you with our recruiting team.</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-  <div class="column">
-    <h2>Work with RSM</h2>
-    <p>My goal is everything we do as a firm, we should be able to do in digital assets.  Let us help you!</p>
-    <p>Email work@blockchainjay.org and I'll connect you with our client team.</p>
+<div class="raw-html">
+  <div class="two-column-section">
+    <div class="column">
+      <h2>Take the REAL RSM Fellowship</h2>
+      <p>Come work at RSM along with 100s of great blockchain and digital assets resources!</p>
+      <ul>
+        <li>Email job@blockchainjay.org and I'll connect you with our recruiting team.</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+    <div class="column">
+      <h2>Work with RSM</h2>
+      <p>My goal is everything we do as a firm, we should be able to do in digital assets.  Let us help you!</p>
+      <p>Email work@blockchainjay.org and I'll connect you with our client team.</p>
+    </div>
   </div>
 </div>
 
